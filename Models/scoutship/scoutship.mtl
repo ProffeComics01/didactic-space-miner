@@ -1,0 +1,25 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.22
+# URL: http://www.unwrap3d.com
+# Time: Thu Jun 03 00:45:42 2010
+# num_materials: 2
+
+newmtl ship1
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.150000 0.150000 0.150000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd ship1.jpg
+
+newmtl ship1_glass
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd ship1_glass.jpg
+
+# num_materials: 2
