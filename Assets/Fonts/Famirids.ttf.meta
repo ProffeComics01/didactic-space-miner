@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f1479e4199234e3d83c754acdcb10d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Famirids
+  fontNames:
+  - Famirids
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 191a78014f6e34a848db8bc6857a56b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
